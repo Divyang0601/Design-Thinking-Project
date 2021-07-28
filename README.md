@@ -1,1 +1,2 @@
-# Design-Thinking-Project
+# mymedic
+A Healthcare Website
