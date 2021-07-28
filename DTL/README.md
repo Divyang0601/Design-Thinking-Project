@@ -1,2 +1,0 @@
-# mymedic
-A Healthcare Website
